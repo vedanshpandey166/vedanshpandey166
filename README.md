@@ -22,7 +22,7 @@
 `Claude 3.7 Sonnet` · `Groq LLM` · `Amazon Bedrock` · `Amazon Titan Embeddings`
 
 **Vector Databases:**  
-`Pinecone` · `ChromaDB` · `FAISS`
+`Pinecone` · `ChromaDB` · `FAISS` · `VectorDB`
 
 **Document & Speech AI:**  
 `Amazon Textract` · `PyMuPDF` · `Whisper STT` · `MMS-TTS`
